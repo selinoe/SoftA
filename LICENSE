@@ -1,0 +1,43 @@
+An administrator must be up-to-date on the information about the software and hardware used across the organization. Manual compilation and reconciliation of IT assets is effort-intensive and error-prone. Desktop Central's web-based inventory management not only helps automate this task, but also provides out-of-the-box network inventory reports.
+
+Inventory management features
+Perceive audit ready hardware and software inventory details.
+Schedule scanning of systems to collect inventory data.
+Manage software licenses, category, and compliance.
+Detect, block, and auto-uninstall prohibited software in the network.
+Look at software usage statistics.
+Automate alerts on specific events such as installation or uninstallation of new software, removal of hardware, etc.
+Over two dozen out-of-the-box reports and the ability to create custom reports across different formats.
+Software inventory 
+Software inventory in Desktop Central gives you access to:
+
+Software metering: Usage details of specific software such as number of times it has been used, total usage duration, systems with specific software etc.
+Software details: View commercial and non-commercial software information including vendor name, installation date, and software version.
+Software license compliance: Provides ability to view the compliant(over-licensed) and non-compliant(under-licensed) software being used in the network.
+Prohibited software: Blacklist software, block executables through, and auto-uninstall prohibited software in the network.
+Warranty management: Track the warranty information of the hardware assets managed by your organization.
+Hardware inventory
+The hardware inventory provides complete details about the hardware used in the network. The hardware inventory reports help the administrators to:
+
+Sort computers by memory.
+Sort computers by OS and service pack version.
+Sort based on hardware manufacturers.
+Sort by age, disk usage, type, etc.
+Scheduled inventory scanning
+Desktop Central scans the Windows desktops and servers in the network periodically to collect the hardware and software details and stores them in the databse. The inventory scanning interval is flexible and can be configured to meet the real-time needs. This enables administrators to get an up-to-date inventory information any time, without any manual intervention.
+
+Alert notifications
+Desktop Central sends email notifications to the administrators for the following events:
+
+A new hardware is added or removed in the network.
+A new software is installed or uninstalled in the network.
+Non-compliance (under licensed or over licensed) of software licensing policy, i.e. the license is either inadequate or in excess and have to purchase more licenses to be compliant or reallocate the licenses in excess respectively.
+A prohibited software is detected in the network.
+The overall free disk space and partition-wise free space fall below the configured value.
+Network inventory reports
+Desktop Central provides out-of-the-box reports to view the software and hardware details of the network. These reports help in getting a quick view of the network inventory. The ability to export the reports to PDF or CSV formats help integrate with third-party reporting engines or print it out for future reference.
+
+Free network inventory management software
+Desktop Central's free edition lets you collect and view the software and hardware inventory details for 25 desktops.
+
+For more details on the inventory management feature, refer to the online help documentation of hardware and software inventory.
